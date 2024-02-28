@@ -3,7 +3,7 @@
 Build an interactive analytics dashboard leveraging Einstein Analytics to provide insightful data visualization.
 
 **Project Scope**
-Data Integration
+**Data Integration**
 
 **Salesforce Data Loader:**
 Utilize Salesforce Data Loader to seamlessly import sample data into Salesforce for analytics purposes.
